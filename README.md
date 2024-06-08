@@ -1,2 +1,2 @@
 # 2024_IBP_Project
-School Monument System for CK
+School Monument System (Web project)
